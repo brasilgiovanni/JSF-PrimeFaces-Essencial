@@ -1,0 +1,3 @@
+<!-- Aqui é um arquivo que pode ficar em branco, sua existência já indica 
+	ao compilador que o CDI pode gerenciar nossas classes por meio da Injeção 
+	de dependencia e contexto -->
